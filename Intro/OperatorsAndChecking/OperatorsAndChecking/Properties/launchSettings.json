@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "OperatorsAndChecking": {
+      "commandName": "Project",
+      "jsWebView2Debugging": false,
+      "nativeDebugging": false
+    }
+  }
+}
