@@ -21,12 +21,12 @@ namespace Loops
 
             while (!isGameFinish)
             {
-                //Kullanıcıdan Bir tahmin istenir
+               // Kullanıcıdan Bir tahmin istenir
                 Console.WriteLine("Tahmininizi Girin:");
                 int guess = Convert.ToInt32(Console.ReadLine());
 
 
-                //3.Girilen tahmine göre aşağı yada yukarı biçinde yönlendirilir.
+               // 3.Girilen tahmine göre aşağı yada yukarı biçinde yönlendirilir.
                 if (guess < randomNumber)
                 {
                     Console.WriteLine("Yukarı!");
@@ -41,6 +41,29 @@ namespace Loops
                     isGameFinish = true;
                 }
             }
+
+            //do
+            //{
+            //    //Kullanıcıdan Bir tahmin istenir
+            //    Console.WriteLine("Tahmininizi Girin:");
+            //    int guess = Convert.ToInt32(Console.ReadLine());
+
+
+            //    //3.Girilen tahmine göre aşağı yada yukarı biçinde yönlendirilir.
+            //    if (guess < randomNumber)
+            //    {
+            //        Console.WriteLine("Yukarı!");
+            //    }
+            //    else if (guess > randomNumber)
+            //    {
+            //        Console.WriteLine("Aşağı!");
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine("Bildiniz!");
+            //        isGameFinish = true;
+            //    }
+            //} while (!isGameFinish);
 
 
         }
