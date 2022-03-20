@@ -14,16 +14,18 @@ namespace Loops
              * 4. Sayı bilinene dek 2.Adıma dönülür.
              */
 
-            bool isGameFinish =false;
+            bool isGameFinish = false;
             Random randomNumberGenerator = new Random(); //randomdan instance aldık.
-            int randomNumber=randomNumberGenerator.Next(0,100); //0 ile 100 arasında random sayı seç
+            int randomNumber = randomNumberGenerator.Next(0, 100); //0 ile 100 arasında random sayı seç
 
-            
+
             while (!isGameFinish)
             {
                 //Kullanıcıdan Bir tahmin istenir
                 Console.WriteLine("Tahmininizi Girin:");
                 int guess = Convert.ToInt32(Console.ReadLine());
+
+
                 //3.Girilen tahmine göre aşağı yada yukarı biçinde yönlendirilir.
                 if (guess < randomNumber)
                 {
@@ -33,13 +35,13 @@ namespace Loops
                 {
                     Console.WriteLine("Aşağı!");
                 }
-                else 
-                { 
+                else
+                {
                     Console.WriteLine("Bildiniz!");
                     isGameFinish = true;
                 }
             }
-            
+
 
         }
     }
