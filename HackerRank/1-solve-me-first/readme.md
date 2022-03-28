@@ -1,3 +1,5 @@
+# [Soruya Gitmek İçin Tıklayın](https://www.hackerrank.com/challenges/solve-me-first/problem)
+
 ![Soru](https://github.com/devrimmehmet/Kodluyoruz-Bootcamp-134/blob/master/HackerRank/1-solve-me-first/SolveMeFirst.png?raw=true)    
 
 ---    
