@@ -2,17 +2,26 @@
 
 namespace introCSharp
 {
-    internal class Program
+     class Program
     {
         static void Main(string[] args)
         {
+            // namespace klasör anlamına gelir
+            // süslü parantezler açılışı doğum kapanışı ölüm orjinal ifadesiyle scope alan demek 
+            // class uygulamanızdaki işlerin sorumluluklarını alan kişiler
+            // en küçük çalışma birimi class dır.
+            // uygulamanın çalışmaya başlangıç noktası main methodudur.
+            // void geriye değer döndürmeyen
+            // dünyanın ilk programlanabilir şeyi nedir?
+            // miladdan sonra 960 da perste yaşayan üç kardeş "banu musa" kardeşlerin yaptığı bir robotları var bir flüt var parmaklar otomatik olarak hareket ediyor.
+
             // sayısal veri tipleri
-            // byte age = 255;
-            // byte age1 = 256;
-            // byte age2 = -255; hata - yok
+            // byte age = 255; eksi değer almaz. 8bittir
+            // sbyte age1 = 256;
+            // sbyte age2 = -255; hata - yok
             // sbyte deger1 = -128;
             // sbyte deger2 = 127;
-
+            
             // short deger4 = short.MaxValue;
             // short deger5 = short.MinValue;
             // Console.WriteLine(deger4); //32767
@@ -20,7 +29,7 @@ namespace introCSharp
 
             // ushort deger6 = ushort.MaxValue;
             // Console.WriteLine(deger6); //32767
-            // ushort deger7 = ushort.MinValue;  //65535
+            // ushort deger7 = ushort.MinValue;  //65535 pozitif
             // Console.WriteLine(deger7); //0
 
             // int
@@ -41,6 +50,8 @@ namespace introCSharp
             // char deger10 = 'a';
             // string deger9 = "Devrim Mehmet Pattabanoğlu"; // katar  bir çok karakterin bir araya geldiği koleksiyon
             // string word = "Türkay Ürkmez"; // bir aray oluşturuyor ve ben bu arrayi kullanabiliyorum.
+            // küçük harfle string c#a aittir.
+            // String ise büyük harfle yazılırsa .Net e aittir.
 
             // veri tipi keyword
 
