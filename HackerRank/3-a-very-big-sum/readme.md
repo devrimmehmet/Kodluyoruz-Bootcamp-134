@@ -1,6 +1,6 @@
 # [Soruya Gitmek İçin Tıklayın](https://www.hackerrank.com/challenges/a-very-big-sum/problem)
 
-![Soru Metni]()
+![Soru Metni](https://github.com/devrimmehmet/Kodluyoruz-Bootcamp-134/blob/master/HackerRank/3-a-very-big-sum/a-very-big-sum.png?raw=true)
 
 ---
 ## ÇÖZÜM
