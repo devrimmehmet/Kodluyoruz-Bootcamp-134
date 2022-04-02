@@ -26,7 +26,7 @@ namespace OperatorsAndChecking
             catch (System.OverflowException ex)
             {
 
-                Console.WriteLine("Total value cannet cast to byte data type");
+                Console.WriteLine("Total value can net cast to byte data type");
             }
 
            
@@ -40,7 +40,7 @@ namespace OperatorsAndChecking
                 int division = number1 / number2;
                 Console.WriteLine($"Result {division}"); 
             }
-            catch (FormatException)
+            catch (FormatException)//exception handle etmek deniyor buna bir durumdaki hataları bulup önlem almak üstesinden gelmek
             {
 
                 Console.WriteLine("Please just give digits");
