@@ -1,0 +1,2 @@
+	Müşteri, sisteme giriş yapar => Müşteri, Uygulama
+	Müşteri, kategoriye tıklar   => Kategori,
