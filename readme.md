@@ -1,6 +1,7 @@
 # Kodla Kariyerine Başla C# .NET Bootcamp
 ## Eğitmen: [Türkay Ürkmez](https://github.com/turkayurkmez)
 ### Asistan: [Ufuk ALTAY](https://github.com/UfukAltay)
+### Asistan: [Furkan Bakal]()
 ---
 ### Bootcamp İçeriği
 
