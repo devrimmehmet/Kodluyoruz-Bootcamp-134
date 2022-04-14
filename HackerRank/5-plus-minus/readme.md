@@ -1,7 +1,7 @@
 # [Soruya Gitmek İçin Tıklayın](https://www.hackerrank.com/challenges/plus-minus/problem)
 
-![Soru Metni1]()
-![Soru Metni2]()
+![Soru Metni1](https://github.com/devrimmehmet/Kodluyoruz-Bootcamp-134/blob/master/HackerRank/5-plus-minus/plus-minus1.png?raw=true)
+![Soru Metni2](https://github.com/devrimmehmet/Kodluyoruz-Bootcamp-134/blob/master/HackerRank/5-plus-minus/plus-minus2.png)
 ---
 ## ÇÖZÜM
 ---
