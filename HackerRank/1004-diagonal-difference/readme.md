@@ -1,7 +1,7 @@
 # [Soruya Gitmek İçin Tıklayın](https://www.hackerrank.com/challenges/diagonal-difference/problem)
 
-![Soru Metni1](https://github.com/devrimmehmet/Kodluyoruz-Bootcamp-134/blob/master/HackerRank/4-diagonal-difference/Diagonal-Difference1.png?raw=true)
-![Soru Metni2](https://github.com/devrimmehmet/Kodluyoruz-Bootcamp-134/blob/master/HackerRank/4-diagonal-difference/Diagonal-Difference2.png?raw=true)
+![Soru Metni1](https://github.com/devrimmehmet/Kodluyoruz-Bootcamp-134/blob/master/HackerRank/1004-diagonal-difference/Diagonal-Difference1.png?raw=true)
+![Soru Metni2](https://github.com/devrimmehmet/Kodluyoruz-Bootcamp-134/blob/master/HackerRank/1004-diagonal-difference/Diagonal-Difference2.png?raw=true)
 ---
 ## ÇÖZÜM
 ---

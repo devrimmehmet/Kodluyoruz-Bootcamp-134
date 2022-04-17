@@ -1,6 +1,6 @@
 # [Soruya Gitmek İçin Tıklayın](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 
-![Soru Metni](https://github.com/devrimmehmet/Kodluyoruz-Bootcamp-134/blob/master/HackerRank/2-simple-array-sum/Simple-Array-Sum.png?raw=true)
+![Soru Metni](https://github.com/devrimmehmet/Kodluyoruz-Bootcamp-134/blob/master/HackerRank/1002-simple-array-sum/Simple-Array-Sum.png?raw=true)
 
 ---
 ## ÇÖZÜM
