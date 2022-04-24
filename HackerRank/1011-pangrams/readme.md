@@ -1,6 +1,6 @@
 # [Soruya Gitmek İçin Tıklayın](https://www.hackerrank.com/challenges/pangrams/problem?isFullScreen=true)
 
-![Soru Metni1]()
+![Soru Metni1](https://github.com/devrimmehmet/Kodluyoruz-Bootcamp-134/blob/master/HackerRank/1011-pangrams/pangrams.png?raw=true)
 
 ---
 ## ÇÖZÜM

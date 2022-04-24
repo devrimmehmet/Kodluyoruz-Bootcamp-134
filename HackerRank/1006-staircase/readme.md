@@ -1,6 +1,6 @@
 # [Soruya Gitmek İçin Tıklayın](https://www.hackerrank.com/challenges/staircase/problem)
 
-![Soru Metni1](https://github.com/devrimmehmet/Kodluyoruz-Bootcamp-134/blob/master/HackerRank/6-staircase/staircase.png?raw=true)
+![Soru Metni1](https://github.com/devrimmehmet/Kodluyoruz-Bootcamp-134/blob/master/HackerRank/1006-staircase/staircase.png?raw=true)
 
 ---
 ## ÇÖZÜM

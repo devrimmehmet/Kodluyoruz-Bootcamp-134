@@ -1,6 +1,6 @@
 # [Soruya Gitmek İçin Tıklayın](https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true)
 
-![Soru Metni1]()
+![Soru Metni1](https://github.com/devrimmehmet/Kodluyoruz-Bootcamp-134/blob/master/HackerRank/1007-time-conversion/time-conversion.png?raw=true)
 
 ---
 ## ÇÖZÜM

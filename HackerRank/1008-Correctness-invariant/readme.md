@@ -1,12 +1,12 @@
 # [Soruya Gitmek İçin Tıklayın](https://www.hackerrank.com/challenges/correctness-invariant/problem)
 
-![Soru Metni1]()
-![Soru Metni1]()
+![Soru Metni1](https://github.com/devrimmehmet/Kodluyoruz-Bootcamp-134/blob/master/HackerRank/1008-Correctness-invariant/8-Correctness-invariant.png?raw=true)
+![Soru Metni1](https://github.com/devrimmehmet/Kodluyoruz-Bootcamp-134/blob/master/HackerRank/1008-Correctness-invariant/8-Correctness-invariant-1.png?raw=true)
 ---
 ## ÇÖZÜM
 ---
 
-   using System;
+    using System;
     using System.Collections.Generic;
     using System.IO;
     using System.Linq;

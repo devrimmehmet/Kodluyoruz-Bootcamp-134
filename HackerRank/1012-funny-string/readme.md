@@ -1,7 +1,5 @@
 # [Soruya Gitmek İçin Tıklayın](https://www.hackerrank.com/challenges/funny-string/problem)
 
-![Soru Metni1]()
-
 ---
 ## ÇÖZÜM
 ---
